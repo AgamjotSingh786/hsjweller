@@ -1,0 +1,199 @@
+.header-top{
+	background-color: #d0704a;
+	width: 100%;
+    height: 50px;
+}
+ .email{
+	float: left;
+    color: #fff;
+    margin-top: 3px;
+    text-align: center;
+    width: 50%;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+ .phone{
+	float: left;
+    color: #fff;
+    margin-top: 3px;
+    text-align: center;
+    width: 50%;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.header-bottom{
+	padding: 15px;
+    width: 80%;
+    margin: auto;
+    /*margin-left: 10%;*/
+    height: 65px;
+}
+.header-logo{
+	    width: 23%;
+    float: left;
+
+}
+.mainmenu{
+	width: 76%;
+    float: left;
+    margin-top: -10px;
+}
+.header-bottom h2{
+	    margin-top: 17px;
+    color: #d0704a;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: sans-serif;
+
+}
+a{
+	text-decoration:none;
+}
+.mainmenu nav ul li {
+    display: inline-block;
+    line-height: 1;
+    padding: 16px;
+    position: relative;
+}
+.mainmenu nav ul li a{
+	font-family: sans-serif;
+	color: #222;
+}
+.banner container-fluid{
+	padding-left: -15px;
+	padding-right: -15px;
+}
+.banner img{
+	width: 100%;
+}
+.shop{
+	padding-top: 50px;
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+ 
+}
+
+.shop h2{
+	color: #222;
+	padding-top:35px;
+	padding-bottom: 30px;
+	font-weight: 700;
+    text-transform: uppercase;
+}
+.shop h4{
+	font-size: 23px;
+    line-height: 20px;
+    font-weight: 500;
+    color: #d0704a;
+    text-align: center;
+    display: block;
+    text-transform: capitalize;
+    margin: 16px 0 20px;
+    font-family: sans-serif;
+}
+.column{
+	width: 32%;
+    float: left;
+    padding: 7px;
+}
+.column-img {
+   
+    border-radius: 20px;}
+.about{
+	padding-top: 50px;
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+}
+.title{
+	text-align: center;
+}
+.title h2{
+	color: #d0704a;
+   
+    margin-bottom: 55px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 35px;
+    font-family: sans-serif;}
+.about-image{
+
+    width: 50%;
+    
+   float: left;
+
+}
+.about-image img{
+	width: 500px;
+    border: 2px solid #efefef;
+    box-shadow: 2px 2px 5px;
+}
+.about-text{
+	width: 48%;
+	margin-top: 44px;
+	float: left;
+}
+ .about p{
+ 	font-size: 20px;
+    text-align: justify;
+    font-family: sans-serif;
+    font-weight: 400;
+ }
+ .banner-shop{
+ 	margin-top: 55px;
+    margin-bottom: 45px;
+    width: 85%;
+    /* border: 1px solid; */
+    margin-left: 8%;
+ }
+ .banner1{
+ 	width: 50%;
+    
+    float: left;
+ }
+ .footer{
+ 	background-color: #d0704a;
+ }
+  .footer p{
+  	    color: #fff;
+    text-align: center;
+    padding: 18px;
+    font-family: sans-serif;
+  }
+
+.heading {
+    background-color: #d0704a;
+    margin-bottom: 45px;
+    text-align: center;
+    padding: 5px;
+    width: 80%;
+    /*margin-left: 10%;
+    margin-top: 25px;*/
+    margin: auto;
+}
+
+.heading h2{
+	color:#fff;
+	font-family: sans-serif;
+	font-size: 30px;
+}
+.shop-page{
+width: 85%;
+    margin-left: 10%;
+}
+.shop-img {
+    border: 1px solid #d5bebe;
+}
+.contact-form{
+    margin: auto;
+     width: 220px;
+     margin-top: 45px;
+}
+hr{
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+label{
+    font-size: 19px;
+}
